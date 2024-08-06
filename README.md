@@ -1,4 +1,4 @@
-# British-Airways-Customer-Review-Analysis
+# British Airways Customer Experience Analysis Dashboard
 
 Description:
 I developed an interactive Tableau dashboard to analyze and visualize customer ratings for British Airways. This project aimed to provide comprehensive insights into passenger experiences across various aspects of the airline's service.
